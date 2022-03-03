@@ -1,0 +1,23 @@
+version: '3'
+services:
+  mongodb:
+    image: mongo
+    container_name: bd_mongo_boilerplate_app2
+    ports:
+    - "27018:27017"
+    environment:
+    - PUID=1000
+    - PGID=1000
+  web:
+    build: ./docker
+    container_name: backend_node_boilerplate_app2
+    ports:
+     - "9000:4000"
+    links:
+     - mongodb
+    depends_on:
+     - mongodb
+    volumes:
+     - .:/app
+     - /app/node_modules
+     - /app/.git

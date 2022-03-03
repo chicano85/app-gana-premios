@@ -1,0 +1,21 @@
+{
+  "errorMailPassword": "The email and password entered are not valid",
+  "lockedAccount": "The account has been blocked and an email has been sent to unblock it",
+  "unlockedMailTitle": "Unlock your account",
+  "activeSubject": "Active account",
+  "activeMailTitle": "Active your account",
+  "activeMailMessage": "Thanks for trusting us. Click on the following link to activate your account.",
+  "unlockSubject": "Unlock your account",
+  "unlockedAccountcheckMail": "This account is locked. Check your email inbox",
+  "invalidPassword": "The password is wrong",
+  "invalidUser": "Invalid user",
+  "invalidPassword2": "Invalid password",
+  "clientNonExist": "the client does not exist",
+  "noManagerGetCampaign": "You cannot obtain campaigns of which you are not a manager",
+  "clientNonExist2": "The customer entered does not exist",
+  "campaignIdRequired": "Campaign ID is required",
+  "campaignNotFound": "Campaign not found",
+  "clientExist": "This client already exists",
+  "userNotFound": "User not found",
+  "activeButtonText": "Active your account"
+}

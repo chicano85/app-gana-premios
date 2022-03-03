@@ -1,0 +1,21 @@
+{
+  "errorMailPassword": "El email y la contraseña introducidos no son válidos",
+  "lockedAccount": "La cuenta ha sido bloqueada y se ha enviado un correo para desbloquearla",
+  "unlockedMailTitle": "Desbloqueo de cuenta",
+  "activeSubject": "Activar cuenta",
+  "activeMailTitle": "Activa tu cuenta",
+  "activeMailMessage": "Gracias por confiar en nosotros.Pulse en el siguiente enlace para activar tu cuenta.",
+  "unlockSubject": "Desbloquear cuenta",
+  "unlockedAccountcheckMail": "Esta cuenta esta bloqueada. Revisa la bandeja de entrada de tu correo",
+  "invalidPassword": "La contraseña es errónea",
+  "invalidUser": "Usuario no válido",
+  "invalidPassword2": "Contraseña inválida",
+  "clientNonExist": "El cliente no existe",
+  "noManagerGetCampaign": "No se pueden obtener campañas de las que no se es gestor",
+  "clientNonExist2": "El cliente introducido no existe",
+  "campaignIdRequired": "El identificador de campaña es obligatorio",
+  "campaignNotFound": "Campaña no encontrada",
+  "clientExist": "Ya existe este cliente",
+  "userNotFound": "Usuario no encontrado",
+  "activeButtonText": "Activa tu cuenta"
+}
